@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TorrentBD ID Redirect
 // @namespace    Nein✋
-// @version      0.1.0
+// @version      2
 // @description  Redirects any 4-8 digit integer number to torrent link
 // @author       G0N
 // @match        *://*.torrentbd.net/*
